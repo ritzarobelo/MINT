@@ -253,6 +253,7 @@ header{
 
 #message h2{
 	font-size: 25px;
+
 }
 #message h2 a{
 	margin-left: 30px;
@@ -285,4 +286,14 @@ header{
 	padding: 25px 0;
 }
 
+
+
+#apps .subtitle{
+	color: white;
+	
+}
+
+#apps label{
+	color: white;
+}
 
